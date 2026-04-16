@@ -1,5 +1,4 @@
-# ☁️ Varun | Creative Developer
-
+# ☁️ Varun ✌️ | "Peace Developer"
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2D3436&width=435&lines=Game+Developer;App+Builder;Web+Creator;Minimalist+UI+Designer" alt="Typing SVG" />
 </p>
@@ -40,6 +39,5 @@
 ---
 
 <p align="center">
-  <a href="mailto:your-email@example.com">Email</a> • 
-  <a href="https://linkedin.com/in/your-username">LinkedIn</a>
+<a href = "https://linktr.ee/varun.5"> My Links
 </p>
