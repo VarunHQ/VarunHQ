@@ -1,55 +1,53 @@
-<!-- 🌌 GLOW GOD-TIER PROFILE -->
-
-<!-- 🌊 Glowing Header -->
+<!-- 🌊 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,50:FF5E62,100:FF8C42&height=250&section=header&text=VarunHQ&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20cool%20things%20with%20code&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FF5E62&height=230&section=header&text=VarunHQ&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- ⚡ Typing Glow Banner -->
+<!-- ⚡ TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=800&height=80&lines=☁️+Cloud-native+builder;Open-source+enthusiast;Turning+creativity+into+code+☁️&color=FF8C42&size=24&duration=2400&pause=700" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&height=60&lines=☁️+Cloud-native+builder;Open-source+enthusiast;Turning+creativity+into+code+☁️&color=FF8C42&size=22&duration=2600&pause=800" />
 </p>
 
-<!-- 👤 Profile Glow -->
+<!-- 👤 PROFILE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VarunHQ/VarunHQ/main/profile.png" width="240"/>
+  <img src="https://raw.githubusercontent.com/VarunHQ/VarunHQ/main/profile.png" width="230" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I build modern, scalable, and clean web applications.  
-Focused on **performance, design, and developer experience**.
+I build modern, scalable and clean web applications.  
+Focused on performance, simplicity and developer experience.
 
 ---
 
-## ⚡ Core Tool
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Energy
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarunHQ&show_icons=true&theme=radical&hide_border=true&border_radius=20" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunHQ&theme=radical&hide_border=true&border_radius=20" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VarunHQ&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunHQ&theme=radical&hide_border=true&border_radius=15" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunHQ&theme=react-dark&hide_border=true&radius=20" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunHQ&theme=react-dark&hide_border=true&radius=15" />
 </p>
 
 ---
 
-## 🧠 Currently Leveling Up
+## 🧠 Currently Exploring
 
-- ⚡ Frontend systems  
-- ☁️ Cloud architecture  
-- 🤖 AI development  
+- Modern frontend systems  
+- Cloud architecture  
+- AI development  
 
 ---
 
@@ -63,21 +61,11 @@ Focused on **performance, design, and developer experience**.
 
 ## ✨ Dev Philosophy
 
-> Code should feel effortless. If it feels complex, refine it.
+> Code should feel simple. If it feels complex, improve it.
 
 ---
 
-## 🌐 Connect
-
+<!-- 🌊 FOOTER -->
 <p align="center">
-  <a href="https://github.com/VarunHQ">
-    <img src="https://img.shields.io/badge/GitHub-FF8C42?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-<!-- 🌊 Glowing Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5E62,50:FF8C42,100:FF5E62&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5E62,100:FF8C42&height=120&section=footer"/>
 </p>
