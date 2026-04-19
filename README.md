@@ -1,4 +1,4 @@
-# ☁️ Varun ✌️ | Peace Developer
+# ☁️ Varun | Peace Developer
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2D3436&center=false&vCenter=true&width=500&lines=Building+Digital+Serenity;Crafting+Immersive+Worlds;Minimalist+UI+Architect;Optimizing+to+Perfection" alt="Typing SVG" />
 </p>
@@ -32,4 +32,35 @@
 
 **Visuals & Interface**
 <p align="left">
-  <img src="
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
+---
+
+### 📈 Metrics of Peace
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VarunHQ&show_icons=true&theme=transparent&hide_border=true&title_color=2D3436&icon_color=2D3436&text_color=555" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunHQ&layout=compact&theme=transparent&hide_border=true&title_color=2D3436&text_color=555" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunHQ&theme=react-light&area=true&hide_border=true&custom_title=Contribution+Flow" width="100%" />
+</p>
+
+---
+
+### ⚡ Technical State
+```javascript
+const varun = {
+  status: "In the Flow",
+  coffee: "Black",
+  ide: "Neovim",
+  goal: "Perfecting the 60fps experience"
+};
+<p align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DVarunHQ%26label%3DProfile%2520Views%26color%3D000000%26style%3Dflat-square" alt="Views" />
+</p>
