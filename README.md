@@ -1,14 +1,17 @@
-<div style="background: linear-gradient(180deg, #FF9F4C 0%, #FF6B00 35%, #2B1D1A 80%);
-            background-image: 
-              radial-gradient(circle at 15% 20%, rgba(255,255,255,0.25) 0%, transparent 45%),
-              radial-gradient(circle at 35% 45%, rgba(255,255,255,0.22) 0%, transparent 50%),
-              radial-gradient(circle at 70% 25%, rgba(255,255,255,0.18) 0%, transparent 55%),
-              radial-gradient(circle at 85% 65%, rgba(255,240,180,0.15) 0%, transparent 50%),
-              radial-gradient(circle at 25% 75%, rgba(255,220,120,0.12) 0%, transparent 60%);
+<div style="background: linear-gradient(180deg, #FFAA5E 0%, #FF7A2A 40%, #1E2A44 100%); 
             padding: 50px 20px 40px; 
             border-radius: 24px; 
             margin-bottom: 30px;
+            position: relative;
+            overflow: hidden;
             box-shadow: 0 10px 40px rgba(0,0,0,0.3);">
+
+  <!-- Cloud decorations using emojis + text shadows for visibility -->
+  <div style="position: absolute; top: 15%; left: 8%; font-size: 42px; opacity: 0.25; transform: rotate(-8deg);">☁️</div>
+  <div style="position: absolute; top: 22%; right: 12%; font-size: 58px; opacity: 0.22; transform: rotate(5deg);">☁️</div>
+  <div style="position: absolute; top: 8%; right: 35%; font-size: 35px; opacity: 0.28;">☁️</div>
+  <div style="position: absolute; bottom: 25%; left: 18%; font-size: 48px; opacity: 0.2; transform: rotate(-12deg);">☁️</div>
+  <div style="position: absolute; top: 35%; left: 55%; font-size: 40px; opacity: 0.18;">☁️</div>
 
 # Hey there! I'm Varun ☁️✌️
 
