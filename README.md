@@ -1,66 +1,81 @@
-# Hey there! I'm Varun ☁️✌️
+<!-- 🔥 ULTRA PROFILE README -->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VarunHQ/VarunHQ/main/profile.png" alt="Varun ☁️✌️" width="280" style="border-radius: 20px;"/>
-  <br><br>
-  
-  <div style="font-size: 1.1em; font-weight: 600; color: #FF8C42; overflow: hidden; border-right: 3px solid #FF8C42; white-space: nowrap; margin: 10px auto; width: 0; animation: typing 4s steps(60, end) forwards, blink 0.75s step-end infinite;">
-    ☁️ Cloud-native builder | Open-source enthusiast | Turning creativity into code ☁️
-  </div>
-</div>
+<!-- 🌊 Animated Gradient Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C42,100:FF5E62&height=220&section=header&text=VarunHQ&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
----
+<!-- ✨ Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=750&height=70&lines=☁️+Cloud-native+builder;Open-source+enthusiast;Turning+creativity+into+code+☁️&color=FF8C42&size=22&duration=2600&pause=800" />
+</p>
 
-### 👨‍💻 About Me
-
-I'm a passionate software engineer who loves crafting scalable systems and delightful developer experiences. With a strong focus on web technologies, cloud solutions, and modern development, I thrive on solving complex problems with simple, elegant solutions.
-
-When I'm not coding, you'll find me exploring new tech stacks, contributing to open source, or enjoying peaceful moments with the clouds ☁️✌️
+<!-- 👤 Profile Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VarunHQ/VarunHQ/main/profile.png" width="260" style="border-radius: 20px;" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-**Languages & Core**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+I'm a passionate software engineer who loves crafting scalable systems and delightful developer experiences.  
+I enjoy building modern web apps, exploring cloud-native tech, and turning ideas into elegant solutions.
 
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-
-**Cloud & Tools**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+When I'm not coding, I'm exploring new stacks, contributing to open source, or just vibing with the clouds ☁️✌️
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Tech Stack
 
-<div align="center">
+### 💻 Languages  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunHQ&show_icons=true&theme=radical)
+### ⚙️ Frameworks  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunHQ&layout=compact&theme=radical)
-
-</div>
+### ☁️ Cloud & Tools  
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ---
 
-### 🌟 Currently Exploring
+## 📊 GitHub Stats
 
-- Modern web development & frontend architecture  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VarunHQ&show_icons=true&theme=radical&border_radius=15" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunHQ&theme=radical&border_radius=15" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunHQ&layout=compact&theme=radical&border_radius=15" height="150"/>
+</p>
+
+---
+
+## 🌟 Currently Exploring
+
+- Modern frontend architecture  
 - AI-assisted development  
-- Sustainable & performant web applications
+- Performance & scalability  
 
 ---
 
-**"Code is like humor. When you have to explain it, it’s bad."**
+## ✨ Dev Quote
 
-Thanks for stopping by! Star anything that sparks joy ✨
+> “Code is like humor. When you have to explain it, it’s bad.”
+
+---
+
+<!-- 🔥 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5E62,100:FF8C42&height=120&section=footer"/>
+</p>
