@@ -1,28 +1,9 @@
-<div style="background: linear-gradient(180deg, #FFAA5E 0%, #FF7A2A 40%, #1E2A44 100%); 
-            padding: 50px 20px 40px; 
-            border-radius: 24px; 
-            margin-bottom: 30px;
-            position: relative;
-            overflow: hidden;
-            box-shadow: 0 10px 40px rgba(0,0,0,0.3);">
-
-  <!-- Cloud decorations using emojis + text shadows for visibility -->
-  <div style="position: absolute; top: 15%; left: 8%; font-size: 42px; opacity: 0.25; transform: rotate(-8deg);">☁️</div>
-  <div style="position: absolute; top: 22%; right: 12%; font-size: 58px; opacity: 0.22; transform: rotate(5deg);">☁️</div>
-  <div style="position: absolute; top: 8%; right: 35%; font-size: 35px; opacity: 0.28;">☁️</div>
-  <div style="position: absolute; bottom: 25%; left: 18%; font-size: 48px; opacity: 0.2; transform: rotate(-12deg);">☁️</div>
-  <div style="position: absolute; top: 35%; left: 55%; font-size: 40px; opacity: 0.18;">☁️</div>
-
 # Hey there! I'm Varun ☁️✌️
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VarunHQ/VarunHQ/main/profile.png" alt="Varun ☁️✌️" width="300" style="border-radius: 24px; box-shadow: 0 20px 40px rgba(0,0,0,0.4);"/>
-</div>
-
-<br>
-
-**Cloud-native builder | Open-source enthusiast | Turning caffeine into code**
-
+  <img src="https://raw.githubusercontent.com/VarunHQ/VarunHQ/main/profile.png" alt="Varun ☁️✌️" width="280" style="border-radius: 20px;"/>
+  <br><br>
+  <h3>☁️ Cloud-native builder | Open-source enthusiast | Turning caffeine into code ☁️</h3>
 </div>
 
 ---
@@ -37,19 +18,19 @@ When I'm not coding, you'll find me exploring new tech stacks, contributing to o
 
 ### 🛠️ Tech Stack
 
-**Languages & Core**
+**Languages & Core**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
-**Frameworks & Libraries**
+**Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 
-**Cloud & Tools**
+**Cloud & Tools**  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
@@ -61,9 +42,9 @@ When I'm not coding, you'll find me exploring new tech stacks, contributing to o
 
 <div align="center">
 
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunHQ&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=2B1D1A&title_color=FF8C42&text_color=FFD23F&icon_color=FFBA08)
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunHQ&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunHQ&layout=compact&theme=radical&hide_border=true&bg_color=2B1D1A&title_color=FF8C42&text_color=FFD23F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunHQ&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
