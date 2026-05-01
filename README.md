@@ -1,12 +1,14 @@
 # ✌️ VarunHQ 😉
 
+
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffd1dc,100:bbdefb&height=200&section=header&text=VarunHQ&fontSize=50&fontColor=000000" />
+</p>
+
 <p align="center">
   <img src="profile.png" width="150" style="border-radius:50%;" alt="profile" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:1f1f1f&height=200&section=header&text=VarunHQ&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</p>
 
 ---
 
@@ -38,12 +40,7 @@
 ## 📊 Neural Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarunHQ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunHQ&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VarunHQ&theme=tokyonight&hide_border=true&background=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarunHQ&theme=default" />
 </p>
 
 ---
@@ -70,4 +67,6 @@ Originality > Everything<br><br>
 ⚡ Ultra-fast UI/UX<br><br>
 🌐 Connect<br><br>
 <p align="center"> <a href="https://github.com/VarunHQ"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1f1f1f,50:0f2027,100:000000" /> </p> <p align="center"> <b>Built Different ⚡</b> </p> ```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ffffff,50:ffd1dc,100:bbdefb" />
+ </p> <p align="center"> <b>i love myself💗</b> </p> ```
