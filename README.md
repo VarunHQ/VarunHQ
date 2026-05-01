@@ -67,7 +67,7 @@ Originality > Everything<br><br>
 🧪 Current Focus<br><br>
 🤖 AI-powered systems<br>
 🎮 Advanced game mechanics<br>
-⚡ Ultra-fast UI/UX<br>
-🌐 Connect<br>
+⚡ Ultra-fast UI/UX<br><br>
+🌐 Connect<br><br>
 <p align="center"> <a href="https://github.com/VarunHQ"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1f1f1f,50:0f2027,100:000000" /> </p> <p align="center"> <b>Built Different ⚡</b> </p> ```
