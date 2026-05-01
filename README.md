@@ -21,7 +21,7 @@
 > **Signature:** Nothing here should feel familiar.
 
 - 🧑‍💻 **Name:** Varun  
-- 🧠 **Alias:** VarunHQ  
+- ✅ **Alias:** VarunHQ  
 - ⚡ **Focus:** Performance + Design + Originality  
 - 🧩 **Edge:** Breaking patterns people don’t even notice exist  
 
@@ -56,45 +56,24 @@
 
 > Not built to fit in — built to redefine.
 
-- 🚀 **[Project Alpha](#)** — pushing boundaries beyond typical apps  
-- 🎮 **[Game X](#)** — mechanics that feel new, not repeated  
-- 🌐 **[Web System](#)** — minimal, fast, and visually sharp  
+- 🚀 **Doodle Dash** — drawing apps for kids  
+- 🎮 **[Working on (a game)](#)** — mechanics that feel new, not repeated  
+- 🌐 **[A big project is coming soon](#)** — will notify!
 
 ---
 
 ## ⚙️ Core Philosophy
 
-```txt
-Simplicity > Complexity
-Performance > Bloat
-Design > Noise
-Originality > Everything
-🧪 Current Focus
-🤖 AI-powered systems
-🎮 Advanced game mechanics
-⚡ Ultra-fast UI/UX
-🌐 Connect
+Simplicity > Complexity<br>
+Performance > Bloat<br>
+Design > Noise<br>
+Originality > Everything<br><br>
+🧪 Current Focus<br><br>
+🤖 AI-powered systems<br>
+🎮 Advanced game mechanics<br>
+⚡ Ultra-fast UI/UX<br>
+🌐 Connect<br>
 <p align="center"> <a href="https://github.com/VarunHQ"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/VarunHQ/VarunHQ/output/github-contribution-grid-snake-dark.svg" alt="snake" /> </p>
-🧊 Terminal Core
-$ whoami
-VarunHQ
-
-$ system.load("mindset")
-> reject_normality
-> design_future
-> build_unseen
-
-$ echo "they copy trends, I create them"
-they copy trends, I create them
-
-$ ./life
-> code
-> create
-> break_limits
-> repeat
-
-
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,50:0f2027,100:000000&height=120&section=footer" /> </p> <p align="center"> <b>Built Different ⚡</b> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1f1f1f,50:0f2027,100:000000" /> </p> <p align="center"> <b>Built Different ⚡</b> </p> ```
