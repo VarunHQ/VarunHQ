@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: varunVS-sudo
+          github_user_name: VarunHQ
           outputs: |
             dist/snake.svg
 
